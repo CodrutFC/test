@@ -1,0 +1,22 @@
+hash: b4c9935a95746b8a2b32037cb3a0b5475a56549bb8605b5a580517ef1a531369
+updated: 2018-02-04T13:10:18.688353535Z
+imports:
+- name: github.com/disintegration/imaging
+  version: 1884593a19ddc6f2ea050403430d02c1d0fc1283
+- name: github.com/gorilla/context
+  version: 08b5f424b9271eedf6f9f0ce86cb9396ed337a42
+- name: github.com/gorilla/mux
+  version: c0091a029979286890368b4c7b301261e448e242
+- name: github.com/gorilla/securecookie
+  version: e59506cc896acb7f7bf732d4fdf5e25f7ccd8983
+- name: github.com/labstack/echo
+  version: ef82f3e034844005bfdb4139d0bcce44dc594657
+  subpackages:
+  - middleware
+- name: github.com/ledongthuc/pdf
+  version: 41c9d16616bf9c930477e22b602b61a05b160b74
+- name: github.com/otiai10/gosseract
+  version: bd690b79a3b1f6cc7a47a90b7cd3d5b5f1900504
+- name: golang.org/x/image
+  version: 12117c17ca67ffa1ce22e9409f3b0b0a93ac08c7
+testImports: []

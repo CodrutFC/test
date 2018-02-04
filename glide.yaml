@@ -1,0 +1,15 @@
+package: playGo
+import:
+- package: github.com/ledongthuc/pdf
+- package: github.com/otiai10/gosseract
+- package: github.com/disintegration/imaging
+- package: golang.org/x/image
+- package: github.com/labstack/echo/middleware
+- package: github.com/labstack/echo
+- package: github.com/gorilla/securecookie
+- package: github.com/gorilla/mux
+
+
+
+
+
